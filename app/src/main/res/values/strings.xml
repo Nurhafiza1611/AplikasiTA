@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AplikasiTA</string>
+    <string name="login">Login</string>
+    <string name="start"><![CDATA[Let\'s Get Started >>]]></string>
+    <string name="register">Register</string>
+    <string name="started"><![CDATA[Let\'s Get Started >>]]></string>
+    <string name="sign_up">Sign Up</string>
+    <string name="Judul">Judul Buku</string>
+    <string name="Description">Description</string>
+</resources>
